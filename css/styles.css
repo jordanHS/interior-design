@@ -1,4 +1,10 @@
-.column {
+.column1{
   width: 300px;
   float:left;
+  background-color: #397808;
+}
+.column2{
+  width: 300px;
+  float:left;
+background-color: #780860;
 }
